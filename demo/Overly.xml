@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+  <list_title>Historia przeglądania</list_title>
+  <blurb></blurb>
+  <url>https://books.google.pl/books?uid=113177793545003286237&amp;as_coll=9&amp;hl=pl</url>
+  <books>
+    <book>
+      <id>01JWV7MV5AW6YED89XVF72DX3M</id>
+      <url>https://books.google.pl/books?id=01JWV7MV5AW6YED89XVF72DX3M&amp;hl=pl</url>
+      <title>Butterfly Touch Massage</title>
+      <contributor>Richard Overly</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>9781583200308</value>
+      </identifier>
+      <labels />
+    </book>
+  </books>
+</library>
